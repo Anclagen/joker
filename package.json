@@ -1,0 +1,26 @@
+{
+  "name": "joker",
+  "version": "0.0.1",
+  "description": "automation and formatters",
+  "type": "module",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Anclagen/joker.git"
+  },
+  "keywords": [
+    "eslint",
+    "mrm",
+    "prettier",
+    "joker"
+  ],
+  "author": "Alexander Barrett",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Anclagen/joker/issues"
+  },
+  "homepage": "https://github.com/Anclagen/joker#readme"
+}
